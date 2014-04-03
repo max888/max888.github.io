@@ -1,1 +1,1 @@
-This mis my jekyll app for details on the blog
+A quick play with the Github blogging platform Jekyll. A basic app.
